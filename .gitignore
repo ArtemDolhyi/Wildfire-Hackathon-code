@@ -1,0 +1,17 @@
+# Ignore hotspot files
+hotspots/
+
+# Ignore test data
+Test/
+
+# Ignore training data
+Train/
+
+# If you want to ignore specific file types in the root directory or any subdirectory
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.tif
+*.csv
