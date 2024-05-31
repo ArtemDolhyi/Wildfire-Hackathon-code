@@ -7,7 +7,7 @@ Test/
 # Ignore training data
 Train/
 
-# If you want to ignore specific file types in the root directory or any subdirectory
+#File types
 *.cpg
 *.dbf
 *.prj
